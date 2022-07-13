@@ -1,4 +1,4 @@
-const os = require('../src/index.js');
+const os = require('../umd/ordinal-suffix.js');
 
 test('Test ordinalSuffix for 1', () => {
   expect(os(1)).toBe('1st');

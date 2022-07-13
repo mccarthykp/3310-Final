@@ -13,4 +13,5 @@ function ordinalSuffix(num) {
             return num + 'th';
     }
 }
-export default ordinalSuffix;
+
+export { ordinalSuffix as default };

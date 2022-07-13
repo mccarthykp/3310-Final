@@ -16,4 +16,4 @@ function ordinalSuffix(num: any) {
   }
 }
 
-module.exports.ordinalSuffix = ordinalSuffix;
+export default ordinalSuffix;
