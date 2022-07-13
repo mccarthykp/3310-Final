@@ -1,0 +1,26 @@
+{
+  "name": "3310-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccarthykp/3310-Final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mccarthykp/3310-Final/issues"
+  },
+  "homepage": "https://github.com/mccarthykp/3310-Final#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
